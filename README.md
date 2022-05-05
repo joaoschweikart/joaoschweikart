@@ -1,4 +1,4 @@
-### Olá! eu sou João Vitor, estudante de programação e tecnologia!
+### Olá! eu sou João Vitor, acadêmico de Ciência da Computação na Universidade Federal da Fronteira Sul - Chapecó!
 #### 
 <div align="center">
   <a href="https://github.com/joaoschweikart">
