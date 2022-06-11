@@ -1,4 +1,5 @@
-### Meu nome é João Vitor, acadêmico de Ciência da Computação na UFFS - Chapecó.
+### Acadêmico de Ciência da Computação na UFFS - Chapecó
+### Desenvolvedor e Analista de TI na AMOSC - Chapecó
 ####
 ### Meu site:
 <div>
