@@ -1,10 +1,6 @@
 ### Acadêmico de Ciência da Computação na UFFS - Chapecó
-### Desenvolvedor e Analista de TI na AMOSC - Chapecó
+### Desenvolvedor Fullstack - Amplimed
 ####
-### Meu site:
-<div>
-  <a href="https://joaoschweikart.github.io/" target="_blank"><img src="https://img.shields.io/badge/joaoschweikart.github.io-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
 
 ####
 
